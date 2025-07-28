@@ -17,7 +17,7 @@
 html, body {
   height: 100%;
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-  background: var(--dark-bg) url("assents/background.jpg") center/cover no-repeat fixed;
+  background: var(--dark-bg) url("background.jpg") center/cover no-repeat fixed;
   color: var(--text-light);
   overflow-x: hidden;
 }
